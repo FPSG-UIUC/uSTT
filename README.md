@@ -23,8 +23,8 @@ If you use this repository in your work, please cite:
 @inproceedings{chen2025ustt,
     title={µSTT: Microarchitecture Design for Speculative Taint Tracking},
     author={Boru Chen and Rutvik Choudhary and Kaustubh Khulbe and Archie Lee and Adam Morrison and Christopher W. Fletcher},
-    booktitle={2024 IEEE 42nd International Conference on Computer Design (ICCD)},
-    year={2024}
+    booktitle={2025 IEEE 43rd International Conference on Computer Design (ICCD)},
+    year={2025}
 }
 ```
     
